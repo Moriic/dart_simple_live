@@ -33,6 +33,7 @@ android {
     namespace = "com.xycz.simple_live"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
+    compileSdkVersion 36
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
